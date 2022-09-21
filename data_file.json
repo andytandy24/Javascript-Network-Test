@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "Names":[
+            "Andreas",
+            "Jonas",
+            "Petter",
+            "Henrik",
+            "Gunnar",
+            "Trond"
+        ],
+        "Age": [
+            18,
+            19,
+            20,
+            34,
+            34,
+            54
+        ]
+    }
+]
